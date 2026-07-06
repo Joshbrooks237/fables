@@ -1,6 +1,8 @@
 # FABLES
 
-### Two feature screenplays by Joshua Brooks
+Feature screenplays by **Joshua Brooks**.
+
+Dark comedy. Drama. Horror. All played completely straight.
 
 ---
 
@@ -75,7 +77,7 @@ That was the seed. This is what grew.
 
 Inside Gary's head, a fully committed psychological horror film: the university was built on a former state hospital. Everyone assumes it's haunted by psychiatric patients. Everyone is wrong. The facility was never a psychiatric hospital — it was a covert containment facility for people with real, uncontrollable spiritual gifts, diagnosed with schizophrenia to keep them behind a fence for forty years.
 
-The Chumash spirit-guardians who have protected the dolphin population off this coast for ten thousand years are now possessing campus staff one by one — professors, deans, security guards, the entire women's water polo team — not as a haunting, but as a watch.
+The Chumash spirit-guardians who have protected the dolphin population off this coast for ten thousand years are now possessing campus staff one by one — not as a haunting, but as a watch.
 
 Something has disturbed the peace.
 
@@ -83,7 +85,7 @@ That something is Brad.
 
 Brad owes $4,300 to a man named Chad over a sunken WaveRunner, and he has done the math on dolphin teeth.
 
-The internal epic is played completely straight — no winking, no fourth-wall breaks, no camp. The comedy comes from five brief reality cutaways: a knock on a bathroom door, a phone buzzing, one event best experienced on the page. Each one lands because by then you've forgotten where you actually are.
+The internal epic is played completely straight — no winking, no fourth-wall breaks, no camp. Five brief reality cutaways remind the audience where they actually are. Each one lands because by then they've forgotten.
 
 The film ends on a wave the size of the horizon, full of every dolphin that has ever swum this coast.
 
@@ -91,13 +93,52 @@ Then a bead of sweat.
 
 Then a toilet flush.
 
-No explanation. The audience connects it themselves.
-
 *A24 sensibility colliding with a gas station bathroom.*
-*Everything Everywhere All at Once levels of "this is dumb and also genuinely well-crafted."*
 
 ---
 
-Both scripts written in [Fountain](https://fountain.io/) format. PDFs rendered in Courier New 12pt, standard screenplay margins.
+## AND IN A THIRD WORLD...
+
+Los Angeles. December 2014. Seventy-one degrees and the smoggy gold that photographs like a filter and feels like nothing at all.
+
+A seventeen-year-old gets expelled from his Ojai boarding school for prying his dead best friend's memorial plaque off a teak bench — the school had spelled the name wrong, for eleven months, in solid brass, and nobody noticed.
+
+Instead of going home, he disappears into the city for four days his mother doesn't know exist.
+
+He doesn't find himself. He finds something more complicated than that.
+
+---
+
+**THIS YEAR**
+
+*"You think noticing everything is the same as being honest.*
+*It's not. It's a hiding place with a view."*
+
+---
+
+### MAGIC HOUR
+
+`magic-hour.fountain` / `magic-hour.pdf` — 61 pages
+
+Miles Calder, 17, has four invisible days, a duffel bag, cash, and a brass plaque on his nightstand with his dead best friend's name spelled wrong on it. He does not know what to do with any of these things.
+
+Los Angeles in December 2014 will show him everyone who went looking for the same answer before him:
+
+- **Lu**, an actress who photographs breakfasts she can't afford to eat because "the girl who eats breakfast here books commercial work, and I can't afford to be her and eat her breakfast in the same month." She finds out her husband is cheating on four networks. She's very good at it.
+- **Wren**, a record store clerk who refuses his deadpan routine on the spot and takes him instead to find the band his dead best friend texted him about from the last show he ever went to. The band broke up in April. The singer still put the EP on the bar jukebox.
+- **Gideon**, a former child star at a Hollywood dive bar — on lunchboxes in 1993, on nothing since — who delivers the film's warning in a way that makes Miles walk out fast and correctly.
+- **Lucia Ortega**, Sam's mother, in Reseda, who laughs and cries at the same time when she sees the plaque, and then sits with Miles in Sam's repaired Civic in the driveway, engine idling, going nowhere, for ten minutes, because she does this every Sunday and today she has a passenger.
+- **June**, 11, Miles's sister, stop-motion filmmaker, who tracks him to the Santa Monica Pier with thirty-one dollars and a Metro pass and asks the one question nobody else in the entire city asked: *"Are you okay?"*
+
+The ending is two siblings on a blanket at the Griffith Observatory at magic hour, a badly-framed photo taken in the wrong direction, and a mother's reply that is a single heart.
+
+The audience leaves bittersweet. The audience leaves optimistic. Those two things happen at the same time, which is the only ending worth building toward.
+
+*Los Angeles, December 2014. Long takes. Natural light. The city as the second lead.*
+*Funny. Melancholy. Honest.*
+
+---
+
+All three scripts written in [Fountain](https://fountain.io/) format. PDFs in Courier New 12pt, standard screenplay margins.
 
 **Unproduced. Available. The apple pie is always there if you look.**
