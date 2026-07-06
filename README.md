@@ -1,43 +1,103 @@
-# Fables
+# FABLES
 
-Feature screenplays by **Joshua Brooks**. Dark comedy, written completely straight.
+### Two feature screenplays by Joshua Brooks
 
 ---
 
-## ELEVEN WORDS
+## IN A WORLD...
+
+where a man can drive someone to chemotherapy at four-forty-five in the morning, every morning, for six months —
+
+**research the cancer at a kitchen table.**
+
+**Walk him to the bathroom.**
+
+**Keep him from drinking.**
+
+**Save his life.**
+
+— and lose everything because of **eleven words** he muttered to his mother in a car.
+
+Words no one will ever officially confirm she heard.
+
+---
+
+**THIS FALL**
+
+*"You were good to me. I know that part.*
+*Both things are just gonna have to be true."*
+
+---
+
+### ELEVEN WORDS
 
 `eleven-words.fountain` / `eleven-words.pdf` — 49 pages
 
-Josh, early 40s, recently quit a job that was triggering his PTSD and hasn't figured out what comes next. He starts driving his mother to pre-dawn VA appointments for Lewis — a Vietnam veteran with paranoid schizophrenia and a squamous cell carcinoma on his lip — mostly because he has nowhere else to be.
+Josh doesn't know what comes next. His mother does — sort of. Her friend Bertha has a brother named Lewis: Vietnam veteran, paranoid schizophrenia, squamous cell carcinoma on his lip. Someone needs to drive him to the VA at 4:45 AM. Repeatedly.
 
-For six months, he and his mother do the real work: medical research at a kitchen table, 4:45 AM pickups, Mohs surgery, hours in waiting rooms, keeping Lewis from drinking when the paranoia gets loud, buying him two Sausage McMuffins every single time regardless of the hour. They save the man's life.
+Josh has nowhere to be.
 
-Then, one especially early, especially tired morning, idling outside the scheduler's house, Josh mutters eleven words to his mother in the car that were never meant for anyone else.
+For six months, the three of them build something real: pre-dawn McDonald's runs (two Sausage McMuffins with egg, large black coffee, apple pie — they always have it), hours in waiting rooms on Wilshire Boulevard, a seizure on a living room floor, a surgery day where the margins come back clean and a retired homemaker with a tabbed folder and her unemployed son discover they actually saved a man's life.
+
+Then one gray morning, half-asleep, idling outside the scheduler's house, Josh says something dark and tired and clearly a joke.
 
 His mother hasn't hung up the phone.
 
-No confrontation ever happens. No one ever says the words aloud again. But Lewis — who used to greet Josh like a hero — starts giving him a cold look at the grocery store, clearly coached, clearly told something Josh can never prove or defend against, because technically nothing was ever said to his face.
+Nobody ever mentions it. Nobody ever accuses him. But Lewis — who used to greet him like a hero — starts giving him a look at the grocery store, and Josh will spend the rest of his life unable to apologize for something nobody will say out loud.
 
-He becomes, in Lewis's eyes, the villain of a story he was actually the hero of.
-
-*Tone: Curb Your Enthusiasm crossed with Coen Brothers moral irony. Every catastrophe played with total sincerity. The comedy lives entirely in the gap between what Josh did and what he's accused of, and in the fact that the accusation is never spoken aloud by anyone.*
+*Curb Your Enthusiasm crossed with a Coen Brothers sense of moral irony.*
+*Every social catastrophe played with complete sincerity.*
+*The comedy lives entirely in the gap between what he did and what he's accused of.*
 
 ---
 
-## SYNCHRONIZED TSUNAMIS
+## AND IN ANOTHER WORLD...
+
+one that exists entirely inside a gig delivery driver's head, on a gas station toilet, at 11:43 PM, while ignoring forty-seven Dashr notifications —
+
+**TEN THOUSAND YEARS OF PROTECTION.**
+
+**FIFTY YEARS OF SILENCE.**
+
+**ONE FRESHMAN WITH A SIXTY-DOLLAR CROSSBOW FROM FACEBOOK MARKETPLACE.**
+
+*"Is it, like, protected protected? Or more of a vibe?"*
+
+---
+
+### SYNCHRONIZED TSUNAMIS
 
 `synchronized-tsunamis.fountain` / `synchronized-tsunamis.pdf` — 52 pages
 
-A gig delivery driver in Ventura County, mid-shift, stress-eats an entire pint of Moollamook Creamery ice cream and ends up stuck on a gas station bathroom toilet. While sweating through his phone buzzing with ignored delivery pings, he spins out a fully committed psychological horror epic in his head — built from a throwaway line he muttered to himself at a coastal college campus earlier that shift.
+Gary the gig driver made a delivery to a coastal California university earlier that shift and muttered, half to himself: *"Didn't they used to house crazy people here?"*
 
-The internal epic: a California State University built on the site of a former state institution. Everyone assumes it's haunted by the ghosts of psychiatric patients. The truth — revealed late — is that the facility was never a psychiatric hospital. It was a covert containment facility for people with real, uncontrollable spiritual gifts, disguised with mid-20th-century diagnoses. The spirits now possessing campus staff aren't patients seeking revenge. They're Chumash spirit-guardians protecting the dolphin population off the coast — and the threat is a freshman named Brad who owes $4,300 to a guy named Chad over a sunken WaveRunner.
+That was the seed. This is what grew.
 
-The internal story is played 100% straight — no winking, no fourth-wall awareness. Five brief reality cutaways (a knock at the door, a phone buzzing, one event best left to the page) remind the audience where they actually are. Each one gets a laugh because by then they've forgotten.
+Inside Gary's head, a fully committed psychological horror film: the university was built on a former state hospital. Everyone assumes it's haunted by psychiatric patients. Everyone is wrong. The facility was never a psychiatric hospital — it was a covert containment facility for people with real, uncontrollable spiritual gifts, diagnosed with schizophrenia to keep them behind a fence for forty years.
 
-The film ends on a match cut: tsunami cresting over campus → a bead of sweat dropping off a forehead. Hard cut to black. The sound of a toilet flushing.
+The Chumash spirit-guardians who have protected the dolphin population off this coast for ten thousand years are now possessing campus staff one by one — professors, deans, security guards, the entire women's water polo team — not as a haunting, but as a watch.
 
-*Tone: Everything Everywhere All at Once levels of "this is dumb and also genuinely well-crafted." A24 sensibility colliding with a gas station bathroom.*
+Something has disturbed the peace.
+
+That something is Brad.
+
+Brad owes $4,300 to a man named Chad over a sunken WaveRunner, and he has done the math on dolphin teeth.
+
+The internal epic is played completely straight — no winking, no fourth-wall breaks, no camp. The comedy comes from five brief reality cutaways: a knock on a bathroom door, a phone buzzing, one event best experienced on the page. Each one lands because by then you've forgotten where you actually are.
+
+The film ends on a wave the size of the horizon, full of every dolphin that has ever swum this coast.
+
+Then a bead of sweat.
+
+Then a toilet flush.
+
+No explanation. The audience connects it themselves.
+
+*A24 sensibility colliding with a gas station bathroom.*
+*Everything Everywhere All at Once levels of "this is dumb and also genuinely well-crafted."*
 
 ---
 
-Both scripts are in [Fountain](https://fountain.io/) format and rendered as PDFs using standard screenplay margins (Courier New 12pt, 1.5" left / 1" right).
+Both scripts written in [Fountain](https://fountain.io/) format. PDFs rendered in Courier New 12pt, standard screenplay margins.
+
+**Unproduced. Available. The apple pie is always there if you look.**
