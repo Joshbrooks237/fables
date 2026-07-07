@@ -174,6 +174,43 @@ It ends with a picnic on the grass above the bunker, and a whistle blown for abs
 
 ---
 
-All four scripts written in [Fountain](https://fountain.io/) format. PDFs in Courier New 12pt, standard screenplay margins.
+## AND IN A FIFTH WORLD...
+
+a man in Van Nuys has been "on the verge of something" for twenty years.
+
+He hosts pub trivia. He drives a twenty-year-old Buick he waxes by hand. He lives in his dead grandfather's house surrounded by four thousand records he has never once let play all the way to the end.
+
+He is genuinely the smartest person in every room he enters.
+
+**HE HAS DONE NOTHING WITH THIS.**
+
+*"You've been looking at the space since I met you.*
+*One of these days the space closes."*
+
+---
+
+### DEADLINES, NOT LIFELINES
+
+`deadlines-not-lifelines.fountain` / `deadlines-not-lifelines.pdf` — 37 pages
+
+Jonathan, 44, can find the flaw in anything before it starts. The podcast that would've been great. The record guide he never wrote. The girl in Burbank. Every single one: taken out back and shot before it could embarrass him. Being smart enough to find the exit is how he's avoided ever staying in the room.
+
+His cousin Marco is trying to launch a menswear line -- eight pieces, a medallion print, clothes cut generous because clothes should forgive you. Sixty callbacks out of four hundred. He asks Jonathan, the smartest person he knows, what he thinks.
+
+Jonathan tells him. Precisely. Without mercy. Every flaw. Every margin that doesn't work. Every reason it won't. He is technically right about most of it, and there isn't one question in any of it -- and when the door closes politely behind him, the film lets him drive home in silence with a deleted text and a radio he doesn't turn on.
+
+Then the real deadline arrives. His aunt sold his grandfather's house. Sixty days. Escrow doesn't care about context. His intelligence cannot find the exit because there isn't one, and he's facing it with no one left to overthink it out loud to.
+
+Counted down in title cards. Structured around a man who lifts the needle off every record before the fade-out -- because his grandfather said "the fade-out is a cop-out, a real song should know how to leave" -- and doesn't realize until the house is empty that he's been doing it to everything.
+
+The ending is a podcast take that runs past sixty seconds, a run-out groove clicking, and his voice still going underneath.
+
+*Curb Your Enthusiasm meets the inside of a very specific and very organized grief.*
+*The car wash plays like a heist. The DMV takes eleven minutes.*
+*The growth is a needle that doesn't lift. That's the whole speech.*
+
+---
+
+All five scripts written in [Fountain](https://fountain.io/) format. PDFs in Courier New 12pt, standard screenplay margins.
 
 **Unproduced. Available. The apple pie is always there if you look.**
