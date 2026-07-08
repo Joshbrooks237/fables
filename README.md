@@ -211,6 +211,47 @@ The ending is a podcast take that runs past sixty seconds, a run-out groove clic
 
 ---
 
-All five scripts written in [Fountain](https://fountain.io/) format. PDFs in Courier New 12pt, standard screenplay margins.
+## AND IN A SIXTH WORLD...
+
+a man worth $4.1 billion — the door-wedge fortune, he gave the hospitality industry its *silence* — owns two Stradivariuses, Napoleon's smaller angrier hat, and the actual Miracle on Ice puck.
+
+His trophy hall has one empty case.
+
+The plaque already says **"SOON."**
+
+**EIGHT CARDS WERE EVER PRINTED.**
+
+**ONE IS AT THE BOTTOM OF THE OCEAN.**
+
+**ONE IS A BOOKMARK IN EZEKIEL.**
+
+**AND ONE WAS TRADED AWAY IN MODESTO, IN 1985, FOR A SINGLE WARM CAPRI SUN.**
+
+*"I PICKED THE WRONG DAY TO QUIT SMOKING!"*
+*"Xanax, sir. Today of all days, it was Xanax."*
+
+---
+
+### MINT CONDITION
+
+`mint-condition.fountain` / `mint-condition.pdf` — 40 pages
+
+Randy Bliss can buy anything on earth except the 1998 Crying Charizard — one tear, still breathing fire, "the most emotionally complicated piece of cardboard ever made" — and a Xanax refill one day early, because Gloria at the MediSaver has an actual "no" in her and Thursday is Thursday.
+
+The chase runs through a collectors' convention with a viewing protocol, a private auction infiltrated in a staff vest over a shirt reading "JUST A NORMAL CARD GUY," a submarine (two submarines — "the yellow one, sir, or the serious one?"), a Carmelite convent silent auction conducted entirely in eyebrow, and a nine-year-old card shark named Destiny who charges him fifty dollars as a test and informs him he folded instantly.
+
+When Randy locks onto the card, the film goes somewhere else with him: sound drains out, crowds smear into watercolor, holofoil light bends across the frame like taffy. It's called the Shine. It is ridiculous. It is genuinely beautiful. Both at once — that's the assignment.
+
+Standing between him and the card: his lifelong rival Duane Hickle — the truck-backup-beep billionaire, the boy from the cul-de-sac, a man who finishes a Capri Sun *at* you in a silent chapel — and Randy's own body, which chooses the single worst moment in authentication history, inside a hermetically sealed Class 100 clean room, sealed at the wrists and ankles, to detonate a gas station burrito. The sensors go red one by one, like a slot machine paying out in hell. The card is impounded. There is now a legally named incident.
+
+The ending is not a bid. It's a trade — straight trade, fruit punch, warm — and eleven words Duane has been waiting forty-one years to hear.
+
+*Ace Ventura energy played at full commitment. The gross-out costs him the plot.*
+*The taper runs underneath the whole thing, mundane and true, and never once is the joke.*
+*Trade's the trade.*
+
+---
+
+All six scripts written in [Fountain](https://fountain.io/) format. PDFs in Courier New 12pt, standard screenplay margins.
 
 **Unproduced. Available. The apple pie is always there if you look.**
