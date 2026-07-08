@@ -252,6 +252,55 @@ The ending is not a bid. It's a trade — straight trade, fruit punch, warm — 
 
 ---
 
-All six scripts written in [Fountain](https://fountain.io/) format. PDFs in Courier New 12pt, standard screenplay margins.
+## AND IN A SEVENTH WORLD...
+
+a twenty-year-old in a dress shirt that fit him two years ago sits in a room full of borrowed folding chairs, not crying, hating himself a little for it, with a phone against his thigh that will not stop buzzing about something that happened to him online six weeks ago.
+
+His mother hands him a list. The garage and the spare room. Keep, donate, trash. Three piles. The dumpster comes Thursday.
+
+In the closet, under a canvas tarp, there is a footlocker stenciled **R. J. KOVACH -- D-1-7 -- USMC.**
+
+The key has been waiting for seventy years, oiled, in a coffee can, on a wire loop, labeled in his grandmother's faded pencil with a single word:
+
+**"NO."**
+
+She kept it anyway.
+
+---
+
+**GUADALCANAL. OCTOBER 24, 1942.**
+
+**THREE THOUSAND MEN CAME UP THE RIDGE IN THE RAIN.**
+
+**WHEN THE SUN ROSE, THE SECTIONS HAD THREE LEFT STANDING.**
+
+**HISTORY NAMED ONE OF THEM.**
+
+*"Still steel?"*
+*"Still steel, Gunny."*
+
+---
+
+### HELD THE LINE
+
+`held-the-line.fountain` / `held-the-line.pdf` — 30 pages
+
+Wyatt Kovach, 20, warehouse scanner gun, forty-three comments deep in a group-chat pile-on he hasn't slept right since — is tasked with cleaning out his dead grandmother's house. His grandfather Ray was the quiet one. Hard to talk to. Left the barbecue before the fireworks every year. Fixed things with his hands and didn't come to holidays much toward the end.
+
+In 1942, Ray was nineteen, behind a water-cooled Browning on a ridge above Henderson Field, one of the men beside Gunnery Sergeant John Basilone on the worst night the record ever wrote down. History never named the other two survivors. This film gives one of them a name, a hometown, a wife, and seventy years of silence.
+
+No wavy dissolves. No sepia. Wyatt touches a dog tag and the AC hum cuts straight to jungle rain — the war material hits like combat, not memory: handheld, ugly, thirty-six hours long, a jammed gun cleared barehanded on a glowing barrel. The present day is overexposed and numb. The contrast is the theme. Basilone stays real, accurate, and offscreen-legendary — he gets maybe thirty words in the whole film and every one of them is inventory. Basilone is the myth. Ray is the cost.
+
+What Wyatt finds in the footlocker: a commendation, another man's broken glasses carried home across the Pacific, a letter to his grandmother abandoned mid-sentence — twice, thirty-six years apart — and a pencil list of every man Ray didn't help carry it. The film's quietest scene is 1954: a wife talking her rigid husband down from the ceiling with a crooked carport slab, and the exact moment her mercy and his silence agree to hold each other up for fifty years.
+
+It ends where the prompt always knew it would: 2 AM, a chat window, a confession typed to the one thing that's always listening — and an answer so flat, so fluent, so instantly inadequate, that Wyatt does the only thing left. He laughs once, closes the laptop, and picks the weight up himself.
+
+*The Hurt Locker's combat. Nightcrawler's numbness. Hell or High Water's unspectacular houses.*
+*Ray held a ridge against thousands. Wyatt couldn't hold a comment section. Same muscle. Different weight class.*
+*He had a man next to him in the hole. Wyatt has a cursor. This one's his.*
+
+---
+
+All seven scripts written in [Fountain](https://fountain.io/) format. PDFs in Courier New 12pt, standard screenplay margins.
 
 **Unproduced. Available. The apple pie is always there if you look.**
