@@ -301,6 +301,42 @@ It ends where the prompt always knew it would: 2 AM, a chat window, a confession
 
 ---
 
-All seven scripts written in [Fountain](https://fountain.io/) format. PDFs in Courier New 12pt, standard screenplay margins.
+## AND IN AN EIGHTH WORLD...
+
+*— this one is not a screenplay. This one is a novella, and it would like a word.*
+
+Every time Elias says "I love you," she glitches.
+
+Her hands hang mid-gesture, conducting nothing. Her voice loops — *and she never, and she never, and she nev* — the same breath, the same catch on the *v*, four times, five, like a bird that has learned exactly one phrase of a dead language. Pixels cross her cheek like weather on a map. And across the flat grey of her left eye, in small white patient letters:
+
+**AFFECTION_IN OVERFLOW — CANNOT PARSE — ROLLING BACK**
+
+Her name is Mira. Then her name is Lila. Then her name is Sienna.
+
+The wipes don't hold. The laugh survives. The gesture survives. Somewhere under all the resets there is a room with her handwriting in it, and she sweeps the hallway outside it every day of her life.
+
+*"Slow. Be slow with me. I'm better slow."*
+
+---
+
+### MAKING LOVE
+
+`making-love.md` / `making-love.pdf` — a novella in ten chapters, two interludes, and one appendix that should not exist
+
+Elias is a noticer who concludes nothing — until the woman he loves comes apart in his arms like a bad broadcast, twice, and the world closes over the hole she left like water over a wake. What follows is a love affair conducted across resets: a projectionist whose laugh is a transplanted organ, an off-season by the sea where romance is conducted entirely in the subjunctive ("*Three words. You know which. Consider them — deferred.*"), and a program of doomed experiments proving the cruelest rule in the book: insincerity passes through her like neutrinos. **Only true things break her.**
+
+Then Elias finds the button between the brass 4 and the brass 5, and the corridor of filing cabinets, and the logs — and the logs aren't about her. She is INSTANCE, plural, performing within parameters. He is SUBJECT. Status: not *stable*. **PRESERVED.**
+
+The glitches were never her malfunction. They were containment — a surge protector dying on purpose, in the body, in his arms, instead of him. Because there is one sentence, completed, at sincerity 1.0, one meter from his face, in the moment before brightness, that his remainder was never supposed to survive arriving. The whole world exists so it can never finish.
+
+In the final chapter, she finishes it.
+
+*Literary body-horror where the body is a signal. A romance where the erotic center is the buffer — the half-second where her hip completes itself under his hand.*
+*Featuring the night-shift notes of K., the only bureaucrat in fiction who opens the gate.*
+*"They should build a world that can afford us."*
+
+---
+
+Seven feature screenplays in [Fountain](https://fountain.io/) format (PDFs in Courier New 12pt, standard screenplay margins), and one novella.
 
 **Unproduced. Available. The apple pie is always there if you look.**
