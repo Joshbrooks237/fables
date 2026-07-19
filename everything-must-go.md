@@ -1026,9 +1026,12 @@ I locked the door and put the key under the mat for the cleaner, as instructed, 
 
 ## 16C. Coming to America
 
-It started in my head before the radio had a chance.
+Before I turned the key, I put on the exact song.
 
-Not the song itself — I am not made of money, and the universe does not sync-license your breakdowns — but the *feeling* of it. That Neil Diamond swagger of arrival. Brass and promise. A chorus built like a dock for tired ships. *Coming to America.* The whole myth in a title: you are heading toward the place where the story gets better.
+Neil Diamond. *Coming to America.*
+Phone to aux. Volume up until the U-Haul's cheap speakers fuzzed at the edges. No shuffle, no playlist diplomacy — that track, on purpose, like a dare I was making at my own life.
+
+Brass and promise filled the cab. The whole myth in a title: you are heading toward the place where the story gets better.
 
 Except I was already here.
 
@@ -1039,7 +1042,7 @@ Seventeen years of rent paid into the coastal postcard.
 I was not coming to America.
 I was leaving the expensive exhibit of it.
 
-Still, the feeling would not get out of the truck. It rode shotgun with the boxes. It hummed under the U-Haul's complaints. It made the whole departure feel like a parade held for an immigrant who had somehow immigrated sideways — out of the zip code everyone else was still trying to enter.
+And I was doing it *to* Neil Diamond's *Coming to America*, which is either perfect or a hate crime against subtlety. I voted perfect. The song rode shotgun with the boxes. It shook the rearview. It made the whole departure feel like a parade held for an immigrant who had somehow immigrated sideways — out of the zip code everyone else was still trying to enter.
 
 ---
 
@@ -1073,9 +1076,9 @@ Desert opened its hands.
 
 Scrub. Power lines. A sky with room in it. Light that did not care about your resume. The highway stretched east like a sentence finally allowed to run on.
 
-And the song-feeling — God help me — got bigger. Not ironic enough to die, not sincere enough to be clean. Both at once. A satire that saluted. A salute that knew it was funny.
+And the song — God help me — got bigger as the land did. Not ironic enough to die, not sincere enough to be clean. Both at once. A satire that saluted. A salute that knew it was funny. I did not skip. I let *Coming to America* keep working me over while America, the actual dirt version, opened its hands.
 
-*Coming to America,* said the myth in my skull.
+*Coming to America,* said the speakers.
 *You're already American,* said my passport.
 *Then why,* said the boxes, *does this feel like arrival?*
 
@@ -1096,17 +1099,19 @@ I felt something stupid and real rise in my throat. Not nationalism. Not the com
 
 I voice-to-text at a red light in a town that was mostly exit ramp:
 
-*neil diamond is bullying me*
+*moving to coming to america by neil diamond. the actual song. on purpose. do not judge me*
 
 She sent back a flag emoji and a middle finger emoji, which is the correct bilingual response to America.
 
 Green light.
 Highway again.
+I hit repeat.
 Mountains arranging themselves into a future I was still not allowed to romanticize.
 
 I romanticized them anyway —
 an immigrant to my own nation,
 coming to America from America,
+soundtrack provided by Neil Diamond,
 looking for the version where the promise is not a view you can't afford to feel.
 
 ---
@@ -1115,9 +1120,7 @@ looking for the version where the promise is not a view you can't afford to feel
 
 There is a moment on the 14 where Los Angeles loosens its grip and pretends it never loved you.
 
-The truck shook. The radio finally caught up to my head and found a classic rock station that believed in guitar solos as a moral good — not the Diamond song, which would have been too on the nose even for fate. My mother followed in her car with the plants. My sister posted nothing, which was how I knew she was present.
-
-The welcome-parade feeling faded into ordinary road noise, which was a relief. Myths are exhausting when they ride the whole way.
+The truck shook. *Coming to America* finally ended — then started again because I had left it on repeat like a man with no chill and a thesis. On the third time through I let it finish for real and sat in ordinary road noise, which was a relief. Myths are exhausting when they ride the whole way. My mother followed in her car with the plants. My sister posted nothing, which was how I knew she was present.
 
 I watched the mountains continue their work.
 
