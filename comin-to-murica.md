@@ -1,4 +1,4 @@
-# COMING TO AMERICA
+# COMIN' TO MURICA
 
 ### a novel / screenplay hybrid
 
@@ -51,7 +51,7 @@ This is the story of twelve days, a missing lease, a garage full of selves, and 
 
 Title card, if this were a movie:
 
-**COMING TO AMERICA**
+**COMIN' TO MURICA**
 
 Irony intentional.
 Do not refund.
@@ -534,7 +534,7 @@ That question is the engine under the title.
 People dream of moving *here.*
 I was dreaming of surviving my way *out* — not out of America. Out of the exhibit. Toward a version where the promise is not a view you cannot afford to feel.
 
-Coming to America.
+Comin' to Murica.
 Already here.
 Still trying to arrive.
 
@@ -681,7 +681,7 @@ I labeled boxes with increasingly unhinged Sharpie energy: KITCHEN (REAL), KITCH
 
 ---
 
-## 19. Day Three — Coming to America
+## 19. Day Three — Comin' to Murica
 
 INT. U-HAUL CAB — DAWN
 
@@ -689,12 +689,14 @@ Before I turned the key, I put on the exact song.
 
 Neil Diamond.
 *Coming to America.*
+The real title. The earnest one.
+Our title — *Comin' to Murica* — is what happens when the earnest one has been through a garage and a heart attack and twelve days of yellow paper.
 
 Phone to aux. Volume until the speakers fuzzed. No shuffle. That track. On purpose. A dare at my own life.
 
 Brass and promise filled the cab — the myth of arrival — while I sat in a truck full of edited years, already American, leaving the coastal exhibit for a cheaper shot at the feeling.
 
-MONTAGE — COMING TO AMERICA (IRONIC ARRIVAL):
+MONTAGE — COMIN' TO MURICA (IRONIC ARRIVAL):
 
 -- Stucco developments repeating, beige then braver beige.
 -- Traffic as nervous system; silent fight in a Lexus, windows up.
@@ -705,13 +707,13 @@ MONTAGE — COMING TO AMERICA (IRONIC ARRIVAL):
 -- Desert opens its hands. Sky with room in it.
 -- Contractor bags in the rearview like blunt little coffins for old selves.
 -- The song working him over. Patriotic. Satirical. Both.
--- Text on screen, optional, only if you must: COMING TO AMERICA / FROM AMERICA
+-- Text on screen, optional, only if you must: COMIN' TO MURICA / ALREADY HERE
 
 END MONTAGE.
 
 I voice-texted my sister at a red light:
 
-*moving to coming to america by neil diamond. the actual song. on purpose. do not judge me*
+*moving to coming to america by neil diamond. the actual song. on purpose. title of our life is comin to murica. do not judge me*
 
 She sent a flag emoji and a middle finger emoji.
 Correct bilingual response.
@@ -811,7 +813,7 @@ Absurdity of locking a place already becoming someone else's investment.
 
 Mom drove plants.
 Sister drove silence (her love language under stress).
-I drove the truck and, yes, *Coming to America* one more time until the myth got tired and let ordinary road noise win.
+I drove the truck and, yes, Neil Diamond's *Coming to America* one more time — comin' to Murica with the earnest soundtrack on — until the myth got tired and let ordinary road noise win.
 
 We did not arrive in paradise.
 We arrived in a smaller rental with a crooked shed and a landlord named Deb who said, "I don't do drama. I do receipts."

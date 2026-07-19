@@ -381,15 +381,19 @@ A missing lease that becomes Schrödinger's box of envelopes — *"Does the cat 
 A sister who returns the broken chair to the garage because it's *our* broken chair.
 A mother waiting for a sign while Gary waits for tape.
 Contractor bags thick enough to hold seventeen years.
-Neil Diamond's *Coming to America* on purpose in the U-Haul — already American, still trying to arrive.
+Neil Diamond's *Coming to America* on purpose in the U-Haul — already American, still trying to arrive. The book's title tells the truth with its shoes off:
+
+**COMIN' TO MURICA**
 
 ---
 
-### COMING TO AMERICA
+### COMIN' TO MURICA
 
-`coming-to-america.md` / `coming-to-america.pdf` — novel / screenplay hybrid
+`comin-to-murica.md` / `comin-to-murica.pdf` — novel / screenplay hybrid
 
 The ironic title book: short chapters, first-person, cinematic montage sluglines, dark humor that comes from reality. Gary's hypervigilance makes him exhausting and indispensable. Mom runs on faith. Sister runs on YouTube tenant law and sentiment. Nobody is a villain. The lease may never appear. The move still happens. The transformation is internal — from *if I don't control everything, everything falls apart* to *I can move forward even without certainty.*
+
+Soundtrack: Neil Diamond's *Coming to America*. Title of the life: *Comin' to Murica.*
 
 Final feeling: after years of surviving storms, enough room to hear himself think.
 
