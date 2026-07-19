@@ -1024,18 +1024,102 @@ I locked the door and put the key under the mat for the cleaner, as instructed, 
 
 ---
 
+## 16C. Coming to America
+
+It started in my head before the radio had a chance.
+
+Not the song itself — I am not made of money, and the universe does not sync-license your breakdowns — but the *feeling* of it. That Neil Diamond swagger of arrival. Brass and promise. A chorus built like a dock for tired ships. *Coming to America.* The whole myth in a title: you are heading toward the place where the story gets better.
+
+Except I was already here.
+
+Born here.
+Raised here.
+Seventeen years of rent paid into the coastal postcard.
+
+I was not coming to America.
+I was leaving the expensive exhibit of it.
+
+Still, the feeling would not get out of the truck. It rode shotgun with the boxes. It hummed under the U-Haul's complaints. It made the whole departure feel like a parade held for an immigrant who had somehow immigrated sideways — out of the zip code everyone else was still trying to enter.
+
+---
+
+Southern California slid past the mirrors like a brochure that had learned to drive.
+
+Stucco developments repeating themselves until the eye gave up counting. Beige, then a braver beige, then a gated beige with a fountain that suggested water was a lifestyle. Houses priced like apologies from God. Lawns so disciplined they looked afraid. In one driveway, a man washed a car that already looked washed. In another, nobody was outside at all — beautiful rooms facing beautiful streets, curtains drawn against the pressure of belonging.
+
+Traffic braided and unbraided. Brake lights like a nervous system. Everyone going somewhere important enough to sit still for forty minutes and call it movement. Billboards sold teeth, lawsuits, cannabis, and gratitude journals. The American dream, itemized and financed.
+
+I watched a couple argue silently in a Lexus at a red light — mouths moving, windows up, wealth insulating even their conflict. Beside them, a bus exhaled people who looked like they had already spent the day surviving the cost of being near the ocean.
+
+This was the location of the dream.
+You could take a picture of it and raise money.
+You could die of loneliness in it with excellent weather.
+
+The feeling in my head kept swelling anyway — patriotic, ridiculous, sincere despite itself — as if the country were throwing me a welcome party for exiting the part of itself that charged admission to breathe.
+
+---
+
+Boxes shifted behind me with every lane change. A lamp tapped its shade against a milk crate in 4/4 time. My mother's car followed with the plants leaning like passengers who disapproved of wind. My sister's brake lights winked whenever she thought I was driving like a metaphor.
+
+The 118 gave way to the 14. The city began to lose interest in us.
+
+First the density thinned.
+Then the billboards got lonelier.
+Then the mountains stopped being a backdrop and started being geology — real, indifferent, older than anybody's listing price.
+
+Los Angeles fell away in the mirrors the way a loud conversation falls away when you step outside. Still there. No longer in charge of your pulse.
+
+Desert opened its hands.
+
+Scrub. Power lines. A sky with room in it. Light that did not care about your resume. The highway stretched east like a sentence finally allowed to run on.
+
+And the song-feeling — God help me — got bigger. Not ironic enough to die, not sincere enough to be clean. Both at once. A satire that saluted. A salute that knew it was funny.
+
+*Coming to America,* said the myth in my skull.
+*You're already American,* said my passport.
+*Then why,* said the boxes, *does this feel like arrival?*
+
+Because the dream was never only the map.
+
+People cross oceans for the feeling: a modest home, work that does not eat the whole animal of you, a kitchen, a little land if you are lucky, quiet enough to hear your own mind form a complete thought, enough margin that an emergency is not the only plot available.
+
+I had lived inside the dream's famous coordinates and missed its sensation.
+So I was migrating toward the sensation with a truck full of edited years, leaving the coordinates to Paul, to the cleaner, to the next tenants who would learn the sticky light switch and believe, for a while, that temporary meant short.
+
+---
+
+A flag snapped over a roadside equipment yard — ordinary, faded, doing its job without a speech.
+
+I felt something stupid and real rise in my throat. Not nationalism. Not the commercial break kind of pride. Something more embarrassing: gratitude to a country spacious enough to fail you in one zip code and still have another zip code left to try. Satire included. Hypocrisy included. Leaf blowers included. The whole cracked cathedral of it.
+
+"What are you smiling at?" my sister's text asked, because she could see my face in her mind from two cars back, the way siblings do.
+
+I voice-to-text at a red light in a town that was mostly exit ramp:
+
+*neil diamond is bullying me*
+
+She sent back a flag emoji and a middle finger emoji, which is the correct bilingual response to America.
+
+Green light.
+Highway again.
+Mountains arranging themselves into a future I was still not allowed to romanticize.
+
+I romanticized them anyway —
+an immigrant to my own nation,
+coming to America from America,
+looking for the version where the promise is not a view you can't afford to feel.
+
+---
+
 ## 17. Highway
 
 There is a moment on the 14 where Los Angeles loosens its grip and pretends it never loved you.
 
-The truck shook. The radio found a classic rock station that believed in guitar solos as a moral good. My mother followed in her car with the plants. My sister posted nothing, which was how I knew she was present.
+The truck shook. The radio finally caught up to my head and found a classic rock station that believed in guitar solos as a moral good — not the Diamond song, which would have been too on the nose even for fate. My mother followed in her car with the plants. My sister posted nothing, which was how I knew she was present.
 
-I watched the mountains arrange themselves into a future I was not allowed to romanticize yet.
+The welcome-parade feeling faded into ordinary road noise, which was a relief. Myths are exhausting when they ride the whole way.
 
-Still.
-I romanticized them.
-
-Sue me. Or don't. I was between addresses and harder to serve.
+I watched the mountains continue their work.
 
 I thought about the missing lease — that sacred missing American document, the one piece of paper that was supposed to prove we deserved to stay. We never found it. Maybe it never existed in the form we needed. Maybe it had been real and the house ate it. Maybe the lesson was insultingly simple: your life cannot be saved by paperwork you cannot produce, only by motion you are willing to make.
 
