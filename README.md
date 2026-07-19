@@ -337,6 +337,39 @@ In the final chapter, she finishes it.
 
 ---
 
-Seven feature screenplays in [Fountain](https://fountain.io/) format (PDFs in Courier New 12pt, standard screenplay margins), and one novella.
+## AND IN A NINTH WORLD...
+
+the notice is yellow.
+
+Tuesday. Chatsworth. Seventeen years in one address, boiled down to a font you use for parking tickets.
+
+The landlord is dead. The kids are in Scottsdale. The estate wants the house. The family wants the lease.
+
+**Nobody can find the lease.**
+
+So they turn the home into a crime scene of memory — closets, drawers, boxes labeled IMPORTANT that contain a Thai menu from 2011 — while Wes Vale, 40, stands in the garage doorway delaying the one confession packing always forces:
+
+*this room is over.*
+
+---
+
+### EVERYTHING MUST GO
+
+`everything-must-go.md` / `everything-must-go.pdf` — a fast short novel in short chapters
+
+Wes has lived both Americas under one roof: the flush months when he mistook comfort for character, the drought months when late fees became a philosophy. Luxury didn't give him peace. Struggle didn't give him purity. What he wants now is **margin** — oxygen, not status. A rent he can pay without theater. A shed that can become a workshop. A kitchen where cooking is not a race against the day.
+
+While the family hunts one missing document that might save the old life, Wes inventories the garage: abandoned hobbies, duplicate chargers, a leather jacket in a zip code called PENDING, a bread machine he eventually murders for freedom. Dream sequences cut against the dust — open highway, high desert stars, music with no audience — ironic American migration for a man already born here, searching for the version of the country where peace is affordable.
+
+They never find the lease. They take the courtesy weeks. They load the U-Haul.
+
+The ending refuses rescue. No inheritance. No apology from Scottsdale. Just a smaller place, pasta sauce, a crooked shed, a jacket on a hook that is no longer PENDING — and enough quiet, after years of storms, to hear himself think.
+
+*Darkly funny. Brutally honest. A middle-aged coming-of-age story with packing tape.*
+*"I am not losing everything. I am being asked to choose what comes with me."*
+
+---
+
+Seven feature screenplays in [Fountain](https://fountain.io/) format (PDFs in Courier New 12pt, standard screenplay margins), and two books of prose.
 
 **Unproduced. Available. The apple pie is always there if you look.**
