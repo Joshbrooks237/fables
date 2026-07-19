@@ -370,6 +370,33 @@ The ending refuses rescue. No inheritance. No apology from Scottsdale. Just a sm
 
 ---
 
-Seven feature screenplays in [Fountain](https://fountain.io/) format (PDFs in Courier New 12pt, standard screenplay margins), and two books of prose.
+## AND THEN HE DEVELOPED IT MORE...
+
+Same storm. Sharper weather.
+
+**Gary. Forty. Heart attack survivor. Family storm radar.**
+
+Twelve days on the fridge in yellow.
+A missing lease that becomes Schrödinger's box of envelopes — *"Does the cat have oxygen?" / "That's not the point, Mom!"*
+A sister who returns the broken chair to the garage because it's *our* broken chair.
+A mother waiting for a sign while Gary waits for tape.
+Contractor bags thick enough to hold seventeen years.
+Neil Diamond's *Coming to America* on purpose in the U-Haul — already American, still trying to arrive.
+
+---
+
+### COMING TO AMERICA
+
+`coming-to-america.md` / `coming-to-america.pdf` — novel / screenplay hybrid
+
+The ironic title book: short chapters, first-person, cinematic montage sluglines, dark humor that comes from reality. Gary's hypervigilance makes him exhausting and indispensable. Mom runs on faith. Sister runs on YouTube tenant law and sentiment. Nobody is a villain. The lease may never appear. The move still happens. The transformation is internal — from *if I don't control everything, everything falls apart* to *I can move forward even without certainty.*
+
+Final feeling: after years of surviving storms, enough room to hear himself think.
+
+*Margin is wealth. The trumpet is optional. The cat maybe has oxygen.*
+
+---
+
+Seven feature screenplays in [Fountain](https://fountain.io/) format (PDFs in Courier New 12pt, standard screenplay margins), and three books of prose.
 
 **Unproduced. Available. The apple pie is always there if you look.**
